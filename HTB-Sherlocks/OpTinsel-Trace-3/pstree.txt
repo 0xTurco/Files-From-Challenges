@@ -1,0 +1,73 @@
+Volatility 3 Framework 2.5.2
+
+PID	PPID	ImageFileName	Offset(V)	Threads	Handles	SessionId	Wow64	CreateTime	ExitTime
+
+4	0	System	0xa48df8866040	103	-	N/A	False	2023-12-01 02:41:18.000000 	N/A
+* 72	4	Registry	0xa48df8955040	4	-	N/A	False	2023-12-01 02:41:14.000000 	N/A
+* 320	4	smss.exe	0xa48dfb324040	2	-	N/A	False	2023-12-01 02:41:18.000000 	N/A
+* 1316	4	MemCompression	0xa48df8874080	18	-	N/A	False	2023-11-30 16:41:25.000000 	N/A
+420	412	csrss.exe	0xa48dfb5e7080	9	-	0	False	2023-12-01 02:41:22.000000 	N/A
+488	412	wininit.exe	0xa48dfee98080	1	-	0	False	2023-12-01 02:41:22.000000 	N/A
+* 716	488	fontdrvhost.ex	0xa48dff066140	5	-	0	False	2023-12-01 02:41:22.000000 	N/A
+* 580	488	services.exe	0xa48dfb5e8080	7	-	0	False	2023-12-01 02:41:22.000000 	N/A
+** 1028	580	svchost.exe	0xa48dfef5f080	19	-	0	False	2023-12-01 02:41:23.000000 	N/A
+** 2696	580	svchost.exe	0xa48e000ee340	5	-	0	False	2023-11-30 16:56:43.000000 	N/A
+** 1040	580	svchost.exe	0xa48e008f1080	8	-	0	False	2023-11-30 16:43:31.000000 	N/A
+** 3608	580	SearchIndexer.	0xa48e0035e240	13	-	0	False	2023-11-30 16:41:39.000000 	N/A
+** 800	580	svchost.exe	0xa48dff1042c0	8	-	0	False	2023-12-01 02:41:22.000000 	N/A
+** 1568	580	svchost.exe	0xa48dff904240	1	-	0	False	2023-11-30 16:41:25.000000 	N/A
+** 1828	580	svchost.exe	0xa48dffc6a340	11	-	0	False	2023-11-30 16:41:26.000000 	N/A
+** 3244	580	svchost.exe	0xa48e008d5080	8	-	0	False	2023-11-30 16:43:30.000000 	N/A
+** 2096	580	sppsvc.exe	0xa48dffc92080	3	-	0	False	2023-11-30 16:41:26.000000 	N/A
+** 1468	580	svchost.exe	0xa48dfefdf2c0	3	-	0	False	2023-11-30 16:41:25.000000 	N/A
+** 1984	580	MsMpEng.exe	0xa48dffb9f280	8	-	0	False	2023-11-30 16:41:26.000000 	N/A
+** 2112	580	svchost.exe	0xa48dffcd92c0	5	-	0	False	2023-11-30 16:41:27.000000 	N/A
+** 1860	580	svchost.exe	0xa48e00a72240	3	-	0	False	2023-11-30 16:41:50.000000 	N/A
+** 1608	580	spoolsv.exe	0xa48dff915200	6	-	0	False	2023-11-30 16:41:25.000000 	N/A
+** 1484	580	svchost.exe	0xa48dff86d2c0	7	-	0	False	2023-11-30 16:41:25.000000 	N/A
+** 1868	580	svchost.exe	0xa48dffa9f080	12	-	0	False	2023-11-30 16:41:26.000000 	N/A
+** 724	580	svchost.exe	0xa48dff06a240	13	-	0	False	2023-12-01 02:41:22.000000 	N/A
+*** 3396	724	RuntimeBroker.	0xa48e00497300	7	-	1	False	2023-11-30 16:41:42.000000 	N/A
+*** 2376	724	SearchApp.exe	0xa48dfefdc080	41	-	1	False	2023-11-30 16:41:42.000000 	N/A
+*** 3976	724	RuntimeBroker.	0xa48e00420300	2	-	1	False	2023-11-30 16:41:41.000000 	N/A
+*** 3820	724	StartMenuExper	0xa48e0054b080	9	-	1	False	2023-11-30 16:41:41.000000 	N/A
+*** 4620	724	ApplicationFra	0xa48e008d6300	3	-	1	False	2023-11-30 16:41:48.000000 	N/A
+*** 4604	724	RuntimeBroker.	0xa48dff1442c0	1	-	1	False	2023-11-30 16:42:31.000000 	N/A
+*** 1620	724	RuntimeBroker.	0xa48e00c17080	2	-	1	False	2023-11-30 16:43:47.000000 	N/A
+*** 3356	724	SystemSettings	0xa48e00a41080	19	-	1	False	2023-11-30 16:42:18.000000 	N/A
+*** 5016	724	ShellExperienc	0xa48e00b1b080	11	-	1	False	2023-11-30 16:43:46.000000 	N/A
+*** 4440	724	dllhost.exe	0xa48e00837340	5	-	1	False	2023-11-30 16:41:45.000000 	N/A
+*** 700	724	SppExtComObj.E	0xa48e001e9280	1	-	0	False	2023-11-30 16:41:32.000000 	N/A
+** 2008	580	wlms.exe	0xa48dffbee240	2	-	0	False	2023-11-30 16:41:26.000000 	N/A
+** 984	580	svchost.exe	0xa48dff19d240	51	-	0	False	2023-12-01 02:41:23.000000 	N/A
+*** 2772	984	taskhostw.exe	0xa48e000770c0	6	-	1	False	2023-11-30 16:41:31.000000 	N/A
+*** 2572	984	sihost.exe	0xa48dfff89280	8	-	1	False	2023-11-30 16:41:31.000000 	N/A
+** 3452	580	svchost.exe	0xa48e00211080	4	-	1	False	2023-11-30 16:41:36.000000 	N/A
+** 4828	580	SecurityHealth	0xa48e00956280	10	-	0	False	2023-11-30 16:41:49.000000 	N/A
+** 356	580	svchost.exe	0xa48dff1d0240	16	-	0	False	2023-12-01 02:41:23.000000 	N/A
+*** 2944	356	ctfmon.exe	0xa48dffe2d080	9	-	1	False	2023-11-30 16:41:31.000000 	N/A
+** 1252	580	VBoxService.ex	0xa48dfefd6080	11	-	0	False	2023-12-01 02:41:23.000000 	N/A
+** 2660	580	svchost.exe	0xa48e000402c0	5	-	1	False	2023-11-30 16:41:31.000000 	N/A
+** 1640	580	svchost.exe	0xa48dfe69b080	11	-	0	False	2023-11-30 16:41:25.000000 	N/A
+** 2152	580	svchost.exe	0xa48dffd3c080	12	-	0	False	2023-11-30 16:41:27.000000 	N/A
+** 1392	580	svchost.exe	0xa48dfefdb2c0	7	-	0	False	2023-11-30 16:41:25.000000 	N/A
+** 1012	580	svchost.exe	0xa48dff1d72c0	13	-	0	False	2023-12-01 02:41:23.000000 	N/A
+** 1140	580	svchost.exe	0xa48dfefd52c0	18	-	0	False	2023-12-01 02:41:23.000000 	N/A
+** 4856	580	SgrmBroker.exe	0xa48e00af22c0	7	-	0	False	2023-11-30 16:43:31.000000 	N/A
+** 1020	580	svchost.exe	0xa48dff1d92c0	13	-	0	False	2023-12-01 02:41:23.000000 	N/A
+* 588	488	lsass.exe	0xa48dfee1e080	10	-	0	False	2023-12-01 02:41:22.000000 	N/A
+496	480	csrss.exe	0xa48dfee9d140	12	-	1	False	2023-12-01 02:41:22.000000 	N/A
+556	480	winlogon.exe	0xa48dfeecc080	4	-	1	False	2023-12-01 02:41:22.000000 	N/A
+* 936	556	dwm.exe	0xa48dff1810c0	16	-	1	False	2023-12-01 02:41:22.000000 	N/A
+* 2700	556	userinit.exe	0xa48e0006c340	0	-	1	False	2023-11-30 16:41:31.000000 	2023-11-30 16:42:02.000000 
+** 2764	2700	explorer.exe	0xa48e00075340	51	-	1	False	2023-11-30 16:41:31.000000 	N/A
+*** 904	2764	SecurityHealth	0xa48e00508080	1	-	1	False	2023-11-30 16:41:53.000000 	N/A
+*** 4244	2764	msedge.exe	0xa48e00a020c0	41	-	1	False	2023-11-30 16:41:54.000000 	N/A
+**** 4304	4244	msedge.exe	0xa48e00a40240	7	-	1	False	2023-11-30 16:41:54.000000 	N/A
+**** 5364	4244	msedge.exe	0xa48e00bb7080	9	-	1	False	2023-11-30 16:41:55.000000 	N/A
+**** 5340	4244	msedge.exe	0xa48e00c1b080	15	-	1	False	2023-11-30 16:41:55.000000 	N/A
+**** 5328	4244	msedge.exe	0xa48e00c1a080	15	-	1	False	2023-11-30 16:41:55.000000 	N/A
+*** 3332	2764	VBoxTray.exe	0xa48e00a42300	11	-	1	False	2023-11-30 16:41:54.000000 	N/A
+* 708	556	fontdrvhost.ex	0xa48dff062140	5	-	1	False	2023-12-01 02:41:22.000000 	N/A
+3248	6008	present.exe	0xa48e00a3b080	1	-	1	False	2023-11-30 16:42:41.000000 	N/A
+* 5504	3248	conhost.exe	0xa48e00cfb080	4	-	1	False	2023-11-30 16:42:41.000000 	N/A
